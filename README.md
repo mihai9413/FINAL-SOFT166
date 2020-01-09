@@ -2,8 +2,8 @@
 FINAL
 
 <a href="https://youtu.be/jV8JSsFS59E
-" target="_blank"><img src="https://i.ibb.co/JqPvrfY/Capture-IE2.png" 
-alt="YOUTUBE VIDEO" width="500" height="200" border="10" /></a>
+" target="_blank">< img src="https://i.ibb.co/JqPvrfY/Capture-IE2.png" 
+alt="YOUTUBE VIDEO" style="margin:auto; text-align:center; display:block;" width="500" height="200" border="10" /></a>
 
 #INDEX PAGE
 ![alt text](https://i.ibb.co/NmbyQdm/Capture-IE1.png "INDEX PAGE")
