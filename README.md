@@ -1,7 +1,7 @@
 # FINAL-SOFT166
 FINAL
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="https://youtu.be/jV8JSsFS59E
+" target="_blank"><img src="https://i.ibb.co/JqPvrfY/Capture-IE2.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #INDEX PAGE
